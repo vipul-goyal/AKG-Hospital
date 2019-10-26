@@ -80,7 +80,10 @@ class Login implements ActionListener
 		}			
 	}
 	public static void main(String s[])
-	{
+	{		
+		// testing
+		System.out.println("Hello world");
+
 		new Login(0);
 	}
 }
